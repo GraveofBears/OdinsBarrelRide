@@ -12,7 +12,7 @@ namespace OdinsBarrelRide
     public class OdinsBarrelRide : BaseUnityPlugin
     {
         private const string ModName = "OdinsBarrelRide";
-        private const string ModVersion = "1.0.4";
+        private const string ModVersion = "1.0.5";
         private const string ModGUID = "org.bepinex.plugins.odinsbarrelride";
 
 
